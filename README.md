@@ -22,6 +22,8 @@ As a research engineer at the United Technologies Research Center, my role is to
 -----
 
 # Awards and Honors
+- UTRC Outstanding Achievement Award (OAA) (2018)
+- Multiple UTRC Great Job & Extra Effort awards (2017 - 2018)
 - Research Excellence Award awarded by the Iowa State University Graduate College (2016)
 - Scholarship for NSF Data Science Workshop (100 graduate students selected nationwide) held in Seattle, Washington (2015)
 - Graduated B. Sc. with Summa Cum Laude (Highest Distinction) - GPA 3.95/4.00 (2014)
