@@ -76,7 +76,7 @@ Please see the full publication list for corresponding papers.
 1. Sarkar, S., Lore, K. G., Sarkar, S., Ramanan, V., Chakravarthy, S. R., Phoha, S., & Ray, A. [Early Detection of Combustion Instability from Hi-speed Flame Images via Deep Learning and Symbolic Time Series Analysis](http://web.me.iastate.edu/soumiks/pdf/Conference/SLSR15_conf.pdf). Proceedings of Prognostics & Health Management Society (PHM) 2015 Conference. Coronado, California. [PDF]
 
 **Book Chapters**
-1. Lore, K.G., Stoecklein, D., Davies, M., Ganapathysubramanian, B. and Sarkar, S., 2017. Deep Learning for Engineering Big Data Analytics. In Big Data Analytics (pp. 151-166). Chapman and Hall/CRC.
+1. Lore, K.G., Stoecklein, D., Davies, M., Ganapathysubramanian, B. and Sarkar, S., 2017. [Deep Learning for Engineering Big Data Analytics](https://www.taylorfrancis.com/books/e/9781315391250/chapters/10.1201/b21822-14). In Big Data Analytics (pp. 151-166). Chapman and Hall/CRC.
 
 **Awarded Patents**  
 1. Bernal, E.A., Reddy, K.K., Giering, M.J., Noraas, R.B. and Lore, K.G., United Technologies Corp, 2019. [Sensor system for data enhancement](https://patents.google.com/patent/US20190050973A1/en). U.S. Patent Application 15/807,359. Patent number 10388005.
