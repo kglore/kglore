@@ -97,7 +97,7 @@ As a research assistant I have worked on multiple projects simultaneously with s
 # Downloadable Projects
 
 **Academic Research**
-1. A stacked denoising autoencoder approach to low-light image enhancement. [Github](https://github.com/kglore/llnet_color)
+1. [A stacked denoising autoencoder approach to low-light image enhancement](https://github.com/kglore/llnet_color)
 
 **Game Development**
 1. [Lethal Frame](https://bit2.itch.io/lethal-frame) (2019) - A survival horror point-and-click adventure.
