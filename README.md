@@ -44,7 +44,7 @@ As a research assistant I have worked on multiple projects simultaneously with s
 1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches. [Video 1](https://www.youtube.com/watch?v=_gU4cClXz5A). [Video 2](https://www.youtube.com/watch?v=M-kD5cJzSE4).
 1. Early detection of combustion instability in jet engines using a neural-symbolic approach. [Video](https://www.youtube.com/watch?v=eaFWU7XqNCA).
 1. Value-of-information estimation in collaborative human-machine interaction systems. [Video](https://www.youtube.com/watch?v=GY0KNf73NVo&t=4s).
-1. Low-light vision enhancement for autonomous systems. [Video 1](https://www.youtube.com/watch?v=b9COD6To5LM).
+1. Low-light vision enhancement for autonomous systems. [Video](https://www.youtube.com/watch?v=b9COD6To5LM).
 1. Optimization of undersea wireless surveillance sensor networks.
 1. Root-cause analysis & anomaly detection in cyber-physical systems.
 1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques.
