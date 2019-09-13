@@ -44,7 +44,7 @@ In United Technologies Research Center (UTRC), a division of United Technologies
 Since early 2017, I am a key member in the team responsible for driving OTIS ONE where the goal of the product is to deliver transparent information, proactive communications, and predictive insights for elevator fleets. My primary role is to analyze data and develop interpretable machine learning models to assist Remote Elevator Monitoring (REM) experts and orchestrate cloud-based solutions for condition-based maintenance, predictive maintenance, and targeted maintenance.
 
 ### Graduate Research Assistant (2015 - 2017)
-**Self-aware Complex Systems, Iowa State University, Ames IA**
+**Self-aware Complex Systems, Iowa State University, Ames IA**  
 As a research assistant I have worked on multiple projects simultaneously with strong emphasis on machine learning based approach. Projects include:
 1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches;
 1. Early detection of combustion instability in jet engines using a neural-symbolic approach;
