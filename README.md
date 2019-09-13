@@ -41,14 +41,15 @@ Since early 2017, I am a key member in the team responsible for driving OTIS ONE
 ### Graduate Research Assistant (2015 - 2017)
 **Self-aware Complex Systems, Iowa State University, Ames IA**  
 As a research assistant I have worked on multiple projects simultaneously with strong emphasis on machine learning based approach. Projects include:
-1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches;
-1. Early detection of combustion instability in jet engines using a neural-symbolic approach;
-1. Value-of-information estimation in collaborative human-machine interaction systems;
-1. Low-light vision enhancement for autonomous systems;
-1. Optimization of undersea wireless surveillance sensor networks;
-1. Root-cause analysis & anomaly detection in cyber-physical systems;
-1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques; and
-1. Determination of component manufacturability via predictive analytics.
+1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches. [Video 1](https://www.youtube.com/watch?v=_gU4cClXz5A). [Video 2](https://www.youtube.com/watch?v=M-kD5cJzSE4).
+1. Early detection of combustion instability in jet engines using a neural-symbolic approach. [Video](https://www.youtube.com/watch?v=eaFWU7XqNCA).
+1. Value-of-information estimation in collaborative human-machine interaction systems. [Video](https://www.youtube.com/watch?v=GY0KNf73NVo&t=4s).
+1. Low-light vision enhancement for autonomous systems. [Video 1](https://www.youtube.com/watch?v=b9COD6To5LM). [Video 2].
+1. Optimization of undersea wireless surveillance sensor networks.
+1. Root-cause analysis & anomaly detection in cyber-physical systems.
+1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques.
+1. Determination of component manufacturability via predictive analytics. [Video](https://www.youtube.com/watch?v=CTWF52T0ZvM).
+Please see the full publication list for corresponding papers.
 
 # Publications
 
