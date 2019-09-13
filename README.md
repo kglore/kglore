@@ -10,16 +10,12 @@ As a research engineer at the United Technologies Research Center, my role is to
 
 **Key research interests:** ​Applied machine learning, complex dynamical systems, image processing, data analytics
 
------
-
 # Education
 
 **M. Sc. Mechanical Engineering (2016) - Iowa State University, USA**  
 **Thesis:** *Deep Learning for Decision Making in Autonomous and Complex System*, advised by Dr. Soumik Sarkar
 
 **B. Sc. Mechanical Engineering (2014) - Iowa State University, USA**
-
------
 
 # Awards and Honors
 1. UTRC [Outstanding Achievement Award (OAA)](https://photos.app.goo.gl/CL2ejDQds7RJ5Zj49) (2017)
@@ -33,8 +29,6 @@ As a research engineer at the United Technologies Research Center, my role is to
 1. Named as [Taylor's University ADP's Best Natural Science Student (2011)](https://photos.app.goo.gl/hrZtC5pm5hBWThGq5), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
 1. Recipient of Taylor's University National Scholarship (2011)
 1. Miscellaneous [scholarly awards from primary to secondary education & as top 1% achiever in nationwide standardized exams](https://photos.app.goo.gl/wo52uAtPCg5LNQdp7) (PMR, SPM)
-
------
 
 # Employment and Experiences
 
@@ -55,8 +49,6 @@ As a research assistant I have worked on multiple projects simultaneously with s
 1. Root-cause analysis & anomaly detection in cyber-physical systems;
 1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques; and
 1. Determination of component manufacturability via predictive analytics.
-
------
 
 # Publications
 
@@ -94,8 +86,6 @@ As a research assistant I have worked on multiple projects simultaneously with s
 1. [Topology Control in Mobile Sensor Networks using Information Space Feedback](http://web.me.iastate.edu/soumiks/showcase/posters/poster_topologycontrol.pdf), Midwest Controls and Game Theory Workshop; Ames, Iowa. April 2015.
 1. [Pattern Discovery from Large-scale Computational Fluid Dynamic Data using Deep Learning](http://web.me.iastate.edu/soumiks/showcase/posters/poster_fluidsculpt_nsfwkshp.pdf), National Science Foundation (NSF) Data Science Workshop; Seattle, Washington. August 2015.
 1. [Deep Learning for Flow Sculpting in Microfluidic Platforms](http://on-demand.gputechconf.com/gtc/2015/posters/GTC_2015_Machine_Learning___Deep_Learning_02_P5173_WEB.pdf), NVIDIA GPU Technology (GTC) Conference; Silicon Valley, California. April 2015.
-
-------
 
 # Downloadable Projects
 
