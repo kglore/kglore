@@ -96,10 +96,10 @@ As a research assistant I have worked on multiple projects simultaneously with s
 
 # Downloadable Projects
 
-## Professional
+**Academic Research**
 1. A stacked denoising autoencoder approach to low-light image enhancement. [Github](https://github.com/kglore/llnet_color)
 
-## Amateur Game Development
+**Game Development**
 1. [Lethal Frame](https://bit2.itch.io/lethal-frame) (2019) - A survival horror point-and-click adventure.
 1. [Mikro II: The Lost Fragments](https://bit2.itch.io/mikro-ii-the-lost-fragments) (2012) - A top-down action RPG with original art.
 1. [Sushi Train](https://bit2.itch.io/sushi-train) (2019) - An arcade game where you fly and collect stars.
