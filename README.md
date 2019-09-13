@@ -30,7 +30,7 @@ As a research engineer at the United Technologies Research Center, my role is to
 - Recipient of Robert C. Fellinger Prize (2014 - 2015)
 - Recipient of William W. Bathie Scholarship (2012 - 2013)
 - Named in Iowa State University Dean's List for all semesters (2012 - 2014)​
-- Named as Taylor's University ADP's Best Natural Science Student (2011)
+- Named as Taylor's University ADP's Best Natural Science Student (2011), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
 - Recipient of Taylor's University National Scholarship (2011)
 
 -----
