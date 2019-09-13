@@ -4,6 +4,7 @@
 *Data Scientist / Research Engineer  
 Decision Support and Machine Intelligence Group  
 United Technologies Research Center, East Hartford CT*  
+[Click to download CV](https://www.dropbox.com/s/6n96upkvuz8tvc2/LoreCV.pdf?dl=0)
 
 As a research engineer at the United Technologies Research Center, my role is to develop and deliver data analytics solutions for UTC's business units on prognostics and condition-based maintenance, machine-learning based computer vision for augmented/virtual reality integration in human-machine interaction systems, and evaluating potential innovative technologies to satisfy needs of UTC's customers. Prior to joining UTRC in January 2017, I have two years of graduate research experience in actively leading, managing, and serving as the consultant for 7 different cross-disciplinary projects with strong emphasis on machine learning techniques (especially Deep Learning), notably for engineering-centric applications on (1) inertial flow sculpting, (2) early detection of combustion instabilities in jet engines, (3) collaborative human-machine interaction systems, (4) vision enhancement for autonomous systems, (5) optimization of undersea wireless surveillance sensor networks, (6) root-cause analysis & anomaly detection in cyber-physical systems, and (7) plant phenotyping and disease prediction.
 
