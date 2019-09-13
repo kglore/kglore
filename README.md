@@ -45,12 +45,12 @@ Since early 2017, I am a key member in the team responsible for driving OTIS ONE
 **Self-aware Complex Systems, Iowa State University, Ames IA**
 As a research assistant I have worked on multiple projects simultaneously with strong emphasis on machine learning based approach. Projects include:
 1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches;
-1. Early detection of combustion instability in jet engines using a neural-symbolic approach (Neural networks and Symbolic Time Series Analysis);
-1. Value-of-information estimation in collaborative human-machine interaction systems using Convolutional Neural Networks (CNN);
-1. Low-light vision enhancement for autonomous systems with Stacked Denoising Autoencoders (SDA);
-1. Optimization of undersea wireless surveillance sensor networks via distributed gossip algorithm;
-1. Root-cause analysis & anomaly detection in cyber-physical systems using Artificial Anomaly Association (A3);
-1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques with 3D-CNN; and
+1. Early detection of combustion instability in jet engines using a neural-symbolic approach;
+1. Value-of-information estimation in collaborative human-machine interaction systems;
+1. Low-light vision enhancement for autonomous systems;
+1. Optimization of undersea wireless surveillance sensor networks;
+1. Root-cause analysis & anomaly detection in cyber-physical systems;
+1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques; and
 1. Determination of component manufacturability via predictive analytics.
 
 -----
