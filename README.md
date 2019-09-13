@@ -91,3 +91,15 @@ As a research assistant I have worked on multiple projects simultaneously with s
 1. [Topology Control in Mobile Sensor Networks using Information Space Feedback](http://web.me.iastate.edu/soumiks/showcase/posters/poster_topologycontrol.pdf), Midwest Controls and Game Theory Workshop; Ames, Iowa. April 2015.
 1. [Pattern Discovery from Large-scale Computational Fluid Dynamic Data using Deep Learning](http://web.me.iastate.edu/soumiks/showcase/posters/poster_fluidsculpt_nsfwkshp.pdf), National Science Foundation (NSF) Data Science Workshop; Seattle, Washington. August 2015.
 1. [Deep Learning for Flow Sculpting in Microfluidic Platforms](http://on-demand.gputechconf.com/gtc/2015/posters/GTC_2015_Machine_Learning___Deep_Learning_02_P5173_WEB.pdf), NVIDIA GPU Technology (GTC) Conference; Silicon Valley, California. April 2015.
+
+------
+
+# Downloadable Projects
+
+## Professional
+1. A stacked denoising autoencoder approach to low-light image enhancement. [Github](https://github.com/kglore/llnet_color)
+
+## Amateur Game Development
+1. [Lethal Frame](https://bit2.itch.io/lethal-frame) (2019) - A survival horror point-and-click adventure.
+1. [Mikro II: The Lost Fragments](https://bit2.itch.io/mikro-ii-the-lost-fragments) (2012) - A top-down action RPG with original art.
+1. [Sushi Train](https://bit2.itch.io/sushi-train) (2019) - An arcade game where you fly and collect stars.
