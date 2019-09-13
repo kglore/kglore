@@ -101,6 +101,9 @@ As a research assistant I have worked on multiple projects simultaneously with s
 **Academic Research**
 1. [A stacked denoising autoencoder approach to low-light image enhancement](https://github.com/kglore/llnet_color)
 
+**Fun analytics**
+1. [Eye Irritation Event Analysis](https://github.com/kglore/eye-irritation-prediction). I have chronic eye issues. Can I use ML/Analytics to compute risk of eye issues based on weather?
+
 **Game Development**
 1. [Lethal Frame](https://bit2.itch.io/lethal-frame) (2019) - A survival horror point-and-click adventure.
 1. [Mikro II: The Lost Fragments](https://bit2.itch.io/mikro-ii-the-lost-fragments) (2012) - A top-down action RPG with original art.
