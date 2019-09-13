@@ -75,11 +75,18 @@ Please see the full publication list for corresponding papers.
 1. Sarkar, S., Lore, K. G., Sarkar, S. [Early Detection of Combustion Instability by Neural-Symbolic Analysis on Hi-Speed Video](http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_12.pdf). Proceedings of the NIPS Workshop on Cognitive Computation: Integrating Neural and Symbolic Approaches; 29th Annual Conference on Neural Information Processing Systems (NIPS 2015). Montreal, Canada. [PDF]
 1. Sarkar, S., Lore, K. G., Sarkar, S., Ramanan, V., Chakravarthy, S. R., Phoha, S., & Ray, A. [Early Detection of Combustion Instability from Hi-speed Flame Images via Deep Learning and Symbolic Time Series Analysis](http://web.me.iastate.edu/soumiks/pdf/Conference/SLSR15_conf.pdf). Proceedings of Prognostics & Health Management Society (PHM) 2015 Conference. Coronado, California. [PDF]
 
-**Thesis**  
-1. Lore, K. G.. [Deep Learning for Decision Making and Complex Autonomous Systems](http://search.proquest.com/docview/1872294460). Master of Science Thesis. Iowa State University, ProQuest Dissertations Publishing, 2017. 10196416. [Landing]
+**Book Chapters**
+1. Lore, K.G., Stoecklein, D., Davies, M., Ganapathysubramanian, B. and Sarkar, S., 2017. Deep Learning for Engineering Big Data Analytics. In Big Data Analytics (pp. 151-166). Chapman and Hall/CRC.
 
 **Awarded Patents**  
-1. Bernal, E.A., Reddy, K.K., Giering, M.J., Noraas, R.B. and Lore, K.G., United Technologies Corp, 2019. [Sensor system for data enhancement](https://patents.google.com/patent/US20190050973A1/en). U.S. Patent Application 15/807,359.
+1. Bernal, E.A., Reddy, K.K., Giering, M.J., Noraas, R.B. and Lore, K.G., United Technologies Corp, 2019. [Sensor system for data enhancement](https://patents.google.com/patent/US20190050973A1/en). U.S. Patent Application 15/807,359. Patent number 10388005.
+
+**Patent Applications**
+1. Bertuccelli, L.F., Reddy, K.K. and Lore, K.G., Otis Elevator Co, 2019. [Part recognition and damage characterization using deep learning](https://patents.google.com/patent/US20190217340A1/en). U.S. Patent Application 15/871,526.
+2. **Placeholder, (in pipeline, filed but not publicly published yet)**
+
+**Thesis**  
+1. Lore, K. G.. [Deep Learning for Decision Making and Complex Autonomous Systems](http://search.proquest.com/docview/1872294460). Master of Science Thesis. Iowa State University, ProQuest Dissertations Publishing, 2017. 10196416. [Landing]
 
 **Conference & Workshop Poster Presentations**  
 1. [Hierarchical Feature Extraction for Efficient Design of Microfluidic Flow Patterns](http://web.me.iastate.edu/soumiks/showcase/posters/poster_2015nipsfluids.pdf). Neural Information Processing Systems (NIPS) Conference: Feature Extraction Workshop; Montreal, Canada. December 2015.
