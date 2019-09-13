@@ -93,7 +93,7 @@ Please see the full publication list for corresponding papers.
 **Academic Research**
 1. [A stacked denoising autoencoder approach to low-light image enhancement](https://github.com/kglore/llnet_color)
 
-**Fun analytics**
+**Fun Analytics**
 1. [Eye Irritation Event Analysis](https://github.com/kglore/eye-irritation-prediction). I have chronic eye issues. Can I use ML/Analytics to compute risk of eye issues based on weather?
 
 **Game Development**
