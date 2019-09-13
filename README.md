@@ -22,16 +22,17 @@ As a research engineer at the United Technologies Research Center, my role is to
 -----
 
 # Awards and Honors
-- UTRC [Outstanding Achievement Award (OAA)](https://photos.app.goo.gl/CL2ejDQds7RJ5Zj49) (2017)
-- Multiple UTRC Great Job & Extra Effort awards (2017 - 2018)
-- [Research Excellence Award](https://photos.app.goo.gl/uCzpqxwGZSPhrxdJ7) awarded by the Iowa State University Graduate College (2016)
-- [Scholarship for NSF Data Science Workshop](https://photos.app.goo.gl/YWsezPPx2dDS5R7k6) (100 graduate students selected nationwide) held in Seattle, Washington (2015)
-- Graduated B. Sc. with [Summa Cum Laude](https://photos.app.goo.gl/42T4ZgU8JqcVD7wM8) (Highest Distinction) - GPA 3.95/4.00 (2014)
-- Recipient of [Robert C. Fellinger Prize](https://photos.app.goo.gl/xufENF1NHSQhqTB27) (2014 - 2015)
-- Recipient of William W. Bathie Scholarship (2012 - 2013)
-- Named in Iowa State University Dean's List for all semesters (2012 - 2014)
-- Named as [Taylor's University ADP's Best Natural Science Student (2011)](https://photos.app.goo.gl/hrZtC5pm5hBWThGq5), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
-- Recipient of Taylor's University National Scholarship (2011)
+1. UTRC [Outstanding Achievement Award (OAA)](https://photos.app.goo.gl/CL2ejDQds7RJ5Zj49) (2017)
+1. Multiple UTRC Great Job & Extra Effort awards (2017 - 2018)
+1. [Research Excellence Award](https://photos.app.goo.gl/uCzpqxwGZSPhrxdJ7) awarded by the Iowa State University Graduate College (2016)
+1. [Scholarship for NSF Data Science Workshop](https://photos.app.goo.gl/YWsezPPx2dDS5R7k6) (100 graduate students selected nationwide) held in Seattle, Washington (2015)
+1. Graduated B. Sc. with [Summa Cum Laude](https://photos.app.goo.gl/42T4ZgU8JqcVD7wM8) (Highest Distinction) - GPA 3.95/4.00 (2014)
+1. Recipient of [Robert C. Fellinger Prize](https://photos.app.goo.gl/xufENF1NHSQhqTB27) (2014 - 2015)
+1. Recipient of William W. Bathie Scholarship (2012 - 2013)
+1. Named in Iowa State University Dean's List for all semesters (2012 - 2014)
+1. Named as [Taylor's University ADP's Best Natural Science Student (2011)](https://photos.app.goo.gl/hrZtC5pm5hBWThGq5), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
+1. Recipient of Taylor's University National Scholarship (2011)
+1. Miscellaneous [scholarly awards from primary to secondary education & as top 1% achiever in nationwide standardized exams](https://photos.app.goo.gl/wo52uAtPCg5LNQdp7) (PMR, SPM)
 
 -----
 
