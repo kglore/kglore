@@ -86,7 +86,7 @@ Please see the full publication list for corresponding papers.
 2. **Placeholder, (in pipeline, filed but not publicly published yet)**
 
 **Thesis**  
-1. Lore, K. G.. [Deep Learning for Decision Making and Complex Autonomous Systems](http://search.proquest.com/docview/1872294460). Master of Science Thesis. Iowa State University, ProQuest Dissertations Publishing, 2017. 10196416. [Landing]
+1. Lore, K. G.. [Deep Learning for Decision Making and Complex Autonomous Systems](http://search.proquest.com/docview/1872294460). Master of Science Thesis. Iowa State University, ProQuest Dissertations Publishing, 2017. 10196416.
 
 **Conference & Workshop Poster Presentations**  
 1. [Hierarchical Feature Extraction for Efficient Design of Microfluidic Flow Patterns](http://web.me.iastate.edu/soumiks/showcase/posters/poster_2015nipsfluids.pdf). Neural Information Processing Systems (NIPS) Conference: Feature Extraction Workshop; Montreal, Canada. December 2015.
@@ -94,6 +94,10 @@ Please see the full publication list for corresponding papers.
 1. [Topology Control in Mobile Sensor Networks using Information Space Feedback](http://web.me.iastate.edu/soumiks/showcase/posters/poster_topologycontrol.pdf), Midwest Controls and Game Theory Workshop; Ames, Iowa. April 2015.
 1. [Pattern Discovery from Large-scale Computational Fluid Dynamic Data using Deep Learning](http://web.me.iastate.edu/soumiks/showcase/posters/poster_fluidsculpt_nsfwkshp.pdf), National Science Foundation (NSF) Data Science Workshop; Seattle, Washington. August 2015.
 1. [Deep Learning for Flow Sculpting in Microfluidic Platforms](http://on-demand.gputechconf.com/gtc/2015/posters/GTC_2015_Machine_Learning___Deep_Learning_02_P5173_WEB.pdf), NVIDIA GPU Technology (GTC) Conference; Silicon Valley, California. April 2015.
+
+**Commercial Projects & Involvement (News articles)**
+1. Remote Condition-based Maintenance of Otis Elevators. | [Article 1](https://www.prnewswire.com/news-releases/otis-launches-otis-one-iot-service-solution-for-the-worlds-largest-elevator-service-network-300643104.html) | [Article 2](https://www.zdnet.com/article/otis-launches-smart-elevator-people-mover-platform-otis-one/)
+1. Pratt & Whitney AI-powered Part Inspection. | [Article](https://www.mro-network.com/maintenance-repair-overhaul/pratt-whitney-s-singapore-operations-get-ai-and-robotic-technology)
 
 # Downloadable Projects
 
