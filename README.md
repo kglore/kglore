@@ -101,12 +101,8 @@ Please see the full publication list for corresponding papers.
 
 # Downloadable Projects
 
-**Academic Research**
-1. [A stacked denoising autoencoder approach to low-light image enhancement](https://github.com/kglore/llnet_color)
-
 **Repositories**
 1. [Deep autoencoder approach to low-light image enhancement](https://github.com/kglore/llnet_color). Code related to my authored [paper](http://www.sciencedirect.com/science/article/pii/S003132031630125X).
-1. [Tree-based pseudolabel anomaly detection](https://github.com/kglore/tree-based-pseudo-label-anomaly-detection). Demonstration of the approach applied in [Physics-based Features for Anomaly Detection in Power Grids with Micro-PMUs](https://ieeexplore.ieee.org/abstract/document/8423024/).
 1. [Eye irritation event analysis](https://github.com/kglore/eye-irritation-prediction). I have chronic eye issues. Can I use ML/Analytics to compute risk of eye issues based on weather?
 
 **Game Development**
