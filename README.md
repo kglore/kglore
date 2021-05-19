@@ -13,10 +13,10 @@ My key interests are in big data analytics for prognostics and health management
 
 # Education
 
-**M. Sc. Mechanical Engineering (2016) - Iowa State University, USA**  
+**M. Sc. Mechanical Engineering (2016) - Iowa State University, USA** (GPA: 3.84/4.00)
 **Thesis:** *Deep Learning for Decision Making in Autonomous and Complex System*, advised by Dr. Soumik Sarkar
 
-**B. Sc. Mechanical Engineering (2014) - Iowa State University, USA**
+**B. Sc. Mechanical Engineering (2014) - Iowa State University, USA** (GPA: 3.95/4.00)
 
 # Employment and Experiences
 
