@@ -18,19 +18,6 @@ My key interests are in big data analytics for prognostics and health management
 
 **B. Sc. Mechanical Engineering (2014) - Iowa State University, USA**
 
-# Awards and Honors
-1. UTRC [Outstanding Achievement Award (OAA)](https://photos.app.goo.gl/CL2ejDQds7RJ5Zj49) (2017)
-1. Multiple UTRC Great Job & Extra Effort awards (2017 - 2021)
-1. [Research Excellence Award](https://photos.app.goo.gl/uCzpqxwGZSPhrxdJ7) awarded by the Iowa State University Graduate College (2016)
-1. [Scholarship for NSF Data Science Workshop](https://photos.app.goo.gl/YWsezPPx2dDS5R7k6) (100 graduate students selected nationwide) held in Seattle, Washington (2015)
-1. Graduated B. Sc. with [Summa Cum Laude](https://photos.app.goo.gl/42T4ZgU8JqcVD7wM8) (Highest Distinction) - GPA 3.95/4.00 (2014)
-1. Recipient of [Robert C. Fellinger Prize](https://photos.app.goo.gl/xufENF1NHSQhqTB27) (2014 - 2015)
-1. Recipient of William W. Bathie Scholarship (2012 - 2013)
-1. Named in Iowa State University Dean's List for all semesters (2012 - 2014)
-1. Named as [Taylor's University ADP's Best Natural Science Student (2011)](https://photos.app.goo.gl/hrZtC5pm5hBWThGq5), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
-1. Recipient of Taylor's University National Scholarship (2011)
-1. Miscellaneous [scholarly awards from primary to secondary education & as top 1% achiever in nationwide standardized exams](https://photos.app.goo.gl/wo52uAtPCg5LNQdp7) (PMR, SPM)
-
 # Employment and Experiences
 
 ### Senior Research Engineer (AI/ML Engineer) (2017 - Present)  
@@ -129,6 +116,19 @@ Please see the full publication list for corresponding papers.
 **Commercial Projects & Involvement (News articles)**
 1. Remote Condition-based Maintenance of Otis Elevators. | [Article 1](https://www.prnewswire.com/news-releases/otis-launches-otis-one-iot-service-solution-for-the-worlds-largest-elevator-service-network-300643104.html) | [Article 2](https://www.zdnet.com/article/otis-launches-smart-elevator-people-mover-platform-otis-one/)
 1. Pratt & Whitney AI-powered Part Inspection. | [Article](https://www.mro-network.com/maintenance-repair-overhaul/pratt-whitney-s-singapore-operations-get-ai-and-robotic-technology)
+
+# Awards and Honors
+1. UTRC [Outstanding Achievement Award (OAA)](https://photos.app.goo.gl/CL2ejDQds7RJ5Zj49) (2017)
+1. Multiple UTRC Great Job & Extra Effort awards (2017 - 2021)
+1. [Research Excellence Award](https://photos.app.goo.gl/uCzpqxwGZSPhrxdJ7) awarded by the Iowa State University Graduate College (2016)
+1. [Scholarship for NSF Data Science Workshop](https://photos.app.goo.gl/YWsezPPx2dDS5R7k6) (100 graduate students selected nationwide) held in Seattle, Washington (2015)
+1. Graduated B. Sc. with [Summa Cum Laude](https://photos.app.goo.gl/42T4ZgU8JqcVD7wM8) (Highest Distinction) - GPA 3.95/4.00 (2014)
+1. Recipient of [Robert C. Fellinger Prize](https://photos.app.goo.gl/xufENF1NHSQhqTB27) (2014 - 2015)
+1. Recipient of William W. Bathie Scholarship (2012 - 2013)
+1. Named in Iowa State University Dean's List for all semesters (2012 - 2014)
+1. Named as [Taylor's University ADP's Best Natural Science Student (2011)](https://photos.app.goo.gl/hrZtC5pm5hBWThGq5), awarded by Former U.S. Ambassador to Malaysia, Paul Wayne Jones
+1. Recipient of Taylor's University National Scholarship (2011)
+1. Miscellaneous [scholarly awards from primary to secondary education & as top 1% achiever in nationwide standardized exams](https://photos.app.goo.gl/wo52uAtPCg5LNQdp7) (PMR, SPM)
 
 # Downloadable Projects
 
