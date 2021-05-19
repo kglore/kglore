@@ -1,9 +1,10 @@
 # General Information
 
 **Kin Gwn Lore**  
-*Senior Research Engineer  (Artificial Intelligence / Machine Learning)
-Advanced Learning and Analytics Group
-Raytheon Technologies Research Center, East Hartford CT*  
+*Senior Research Engineer  (Artificial Intelligence / Machine Learning)\
+Advanced Learning and Analytics Group\
+Raytheon Technologies Research Center, East Hartford CT*  \
+U.S. Permanent Resident
 [Click to download CV](https://www.dropbox.com/s/6n96upkvuz8tvc2/LoreCV.pdf?dl=0)
 
 My key interests are in big data analytics for prognostics and health management, and machine learning for autonomous & intelligent systems. My hands-on experiences span over broad families of machine learning algorithms with specialization in deep learning architectures with recent emphasis on interpretability. Experienced in a wide range of applications domains including computer vision, fluid dynamics, networked systems, design optimization and part manufacturability, and agricultural applications. At RTRC, I hold multiple U.S. patent awards/applications as both lead inventor and co-inventor, with more than 20 refereed publications (conference proceedings and journal articles), including a book chapter on big data analytics. I have delivered considerable business impacts as a key contributor/developer of OTIS One smart elevators and Pratt & Whitney's automated part inspection solutions for CBM.
