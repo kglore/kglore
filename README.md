@@ -1,4 +1,7 @@
-# General Information
+# This page needs to be updated! Please see note.
+Please download PDF version of my CV for the most up-to-date information.
+
+# General Information (To be updated)
 
 **Kin Gwn Lore**  
 *Senior Research Engineer  (Artificial Intelligence / Machine Learning)\
