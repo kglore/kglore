@@ -1,4 +1,4 @@
-# This page needs to be updated! Please see note.
+# Welcome!
 Please download PDF version of my CV for the most up-to-date professional history. This page now serves as a link repository to my publications and supporting materials, instead of being a text version of the CV.
 
 # General Information
