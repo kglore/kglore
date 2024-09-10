@@ -1,72 +1,15 @@
 # This page needs to be updated! Please see note.
-Please download PDF version of my CV for the most up-to-date information.
+Please download PDF version of my CV for the most up-to-date professional history. This page now serves as a link repository to my publications and supporting materials, instead of being a text version of the CV.
 
-# General Information (To be updated)
+# General Information
 
 **Kin Gwn Lore**  
-*Senior Research Engineer  (Artificial Intelligence / Machine Learning)\
-Advanced Learning and Analytics Group\
-Raytheon Technologies Research Center, East Hartford CT*  \
+*Principal Research Engineer  (Artificial Intelligence / Machine Learning)\
+AI Systems Engineering Group\
+Raytheon Technologies Research Center, East Hartford CT | Currently Remote in Boston, MA*  \
 U.S. Permanent Resident \
 [Click to download CV](https://www.dropbox.com/s/6n96upkvuz8tvc2/LoreCV.pdf?dl=0)
 
-My key interests are in big data analytics for prognostics and health management, and machine learning for autonomous & intelligent systems. My hands-on experiences span over broad families of machine learning algorithms with specialization in deep learning architectures with recent emphasis on interpretability. Experienced in a wide range of applications domains including computer vision, fluid dynamics, networked systems, design optimization and part manufacturability, and agricultural applications. At RTRC, I hold multiple U.S. patent awards/applications as both lead inventor and co-inventor, with more than 20 refereed publications (conference proceedings and journal articles), including a book chapter on big data analytics. I have delivered considerable business impacts as a key contributor/developer of OTIS One smart elevators and Pratt & Whitney's automated part inspection solutions for CBM.
-
-**Key research interests:** ​Applied machine learning, complex dynamical systems, image processing, data analytics
-
-# Education
-
-**M. Sc. Mechanical Engineering (2016) - Iowa State University, USA** (GPA: 3.84/4.00)
-**Thesis:** *Deep Learning for Decision Making in Autonomous and Complex System*, advised by Dr. Soumik Sarkar
-
-**B. Sc. Mechanical Engineering (2014) - Iowa State University, USA** (GPA: 3.95/4.00)
-
-# Employment and Experiences
-
-### Senior Research Engineer (AI/ML Engineer) (2017 - Present)  
-**Raytheon Technologies Research Center, East Hartford CT**
-
-- **Operational & Strategic Roles**
-  - Principal investigator to Raytheon Intelligence & Space (RIS), and Raytheon Missiles & Defense’s (RMD) AI/ML counter-UAS analytics, and Pratt and Whitney’s explainable visual inspection in collaboration with RTRC-Ireland.
-  - Identifying intellectual properties (filing invention disclosures & patents) from executed projects to reinforce RTRC's strategic roadmap in the Machine Learning & Deep Learning technical area. Market & respond to BAAs from federal agencies. Member of RTRC Marketing Development program for synthesizing innovative concepts.
-  
-- **Technical Area: Data Analytics & Machine Learning**
-  - Technical contributor to TBI symptom detection for warfighter analytics (DARPA), learning-enabled architecture synthesis (ARPA-E), cyber-security event detection in power grids (DOE), data-driven hardware Trojan detection (DARPA), and as a consultant for data analytics/ML engineering for RTRC’s business unit applications (system architecture exploration, condition-based maintenance, anomaly detection, ATC communication denoising and transcription).
-  - Key member in the team responsible for driving OTIS ONE (Otis Elevator Co.). Primary role is to analyze data and develop interpretable machine learning models to assist Remote Elevator Monitoring (REM) experts and orchestrate cloud-based solutions for condition-based maintenance, predictive maintenance, and targeted maintenance. Significantly increased business value by reducing maintenance events.
-  - Key skills: Building deep learning architectures (DNNs, CNNs, RNNs, LSTMs, transformers, MIMO architectures) for handling wide application domains and multiple data modalities such as dataframes, images, log files, time series, and graph data. Advanced data synthesis using GANs (pix2pix, CycleGAN, etc.) and different autoencoder classes (CAE, DAE, VAE) that are also used for anomaly detection applications. Natural Language Processing models (e.g. Tacotron, Waveglow, etc. for voice cloning, speech synthesis). Graph neural networks for architecture exploration. Parametric & non-parametric models for regression, classification, clustering (e.g., linear/nonlinear methods, tree-based methods, kernel methods, regression splines, k-means/DBSCAN clustering etc.). Statistical pattern recognition, inferential statistics, hypothesis testing, A/B testing in short timeframe due to urgent business needs.
-
-- **Technical Area: Computer Vision**
-  - Technical focal point in the development of visual inspection system (deep learning, conventional CV methods) and supporting integration into robotic workflows (in-house software & Energid’s ACTIN Viewer) for Pratt and Whitney's piece-part inspection (PPI).
-  - Key skills: SotA object detection methods (e.g. YOLO, Mask-RCNN, autoencoders, with backbones like ResNet, Inception, MobileNet, U-Nets etc.), intermediate computer vision methods in controlled environments (HoG, feature matching, morphological operations, thresholding & color correction, rigid/nonrigid image registration via estimated transforms, optical flow, etc.). Beyond-RGB image processing (LIDAR, RGB-D, MSI/HIS, photometric stereo data), and sequence processing.
-
-- **Major project portolio and corresponding agencies (since 2017)**
-  - RM&D: Analytics and Threat Assessment for c-UAS (PI), Pattern-of-life analytics
-  - P&W: Visual inspection of HPT Blades; fine-defect reasoning engine (PI); Turbojet component PHM, analytics, and root-cause analysis.
-  - RTRC: Air-traffic communication speech-to-text enhancement capabilities; Competency-aware Machine Learning (Co-PI); Context-aware ML (PI); UAS ML-based path planning under contingency scenario
-  - ARPA-E: Learning-enabled topology synthesis & design for power converters
-  - DARPA: AI-based hardware trojan detection; Traumatic Brain Injury detection for warfighter analytics; Gait-based personnel authentication
-  - DOE: Cyberattack event detection of networked power grids
-  - OTIS: Condition-based maintenance of smart elevators, Otis ONE
-
-### Senior Research Engineer - Data Scientist (2019 - 2020)  
-### Research Engineer / Data Scientist (2017 - 2019)  
-**United Technologies Research Center, East Hartford CT**
-- Worked on multiple projects for business units ranging from developing data-driven machine learning models for condition-based maintenance of OTIS elevators, data analytics for Pratt & Whitney's rig and revenue service engines, and deep-learning powered part inspection algorithms.
-- From an R&D perspective, I designed deep learning architectures for virtual sensing, computer vision applications, as well as U.S. Department of Energy (DOE)-funded projects to detect faults and cyber-attacks on networked power grids.
-- Key analytics model developer in the team responsible for driving OTIS ONE and delivering predictive insights for elevator fleets. I have analyzed data, developed interpretable machine learning models to assist Remote Elevator Monitoring (REM) experts and orchestrated cloud-based solutions for condition-based maintenance. Worked closely with international teams (OTIS HQ, HRDC India, LTI India, OTIS Austria, OTIS Germany, OTIS Hong Kong, UTRC China) and successfully scaled up the models across 7 different countries.
-
-### Graduate Research Assistant (2015 - 2017)
-**Self-aware Complex Systems, Iowa State University, Ames IA**  
-As a research assistant I have worked on multiple projects simultaneously with strong emphasis on machine learning based approach. Projects with publications include:
-1. Microfluidic device design for inertial flow sculpting using Deep Learning approaches. [Video 1](https://www.youtube.com/watch?v=_gU4cClXz5A). [Video 2](https://www.youtube.com/watch?v=M-kD5cJzSE4).
-1. Early detection of combustion instability in jet engines using a neural-symbolic approach. [Video](https://www.youtube.com/watch?v=eaFWU7XqNCA).
-1. Value-of-information estimation in collaborative human-machine interaction systems. [Video](https://www.youtube.com/watch?v=GY0KNf73NVo&t=4s).
-1. Low-light vision enhancement for autonomous systems. [Video](https://www.youtube.com/watch?v=b9COD6To5LM).
-1. Optimization of undersea wireless surveillance sensor networks.
-1. Root-cause analysis & anomaly detection in cyber-physical systems.
-1. Plant phenotyping using Hyperspectral Imaging (HSI) classification techniques.
-1. Determination of component manufacturability via predictive analytics. [Video](https://www.youtube.com/watch?v=CTWF52T0ZvM).
-Please see the full publication list for corresponding papers.
 
 # Publications
 
